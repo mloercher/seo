@@ -4,10 +4,20 @@
     margin: 0;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 25px;
+}
+
 body {
     background-color: #d9dcd6;
 }
 
+/* start header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,16 +50,9 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/* end of header */
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
+/* hero img */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,15 +61,20 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* end of hero */
 
+/* start of content */
 .float-left {
     float: left;
     margin-right: 25px;
+    
+    
 }
 
 .float-right {
     float: right;
     margin-left: 25px;
+    
 }
 
 .content {
@@ -75,6 +83,9 @@ p {
     margin-left: 20px;
 }
 
+/* end of content */
+
+/* benefits section--right panel */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -96,7 +107,9 @@ p {
     margin: 10px auto;
     max-width: 200px;
 }
+/* end benefits section--right panel */
 
+/* start content section--SEO, online rep, social media mrkt */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -153,7 +166,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* end content section---SEO, online rep, social media mrkt */
 
+/* footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -164,3 +179,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* en of footer */
