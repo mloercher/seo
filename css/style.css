@@ -1,3 +1,4 @@
+/* start universal selectors */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -17,6 +18,7 @@ p {
 body {
     background-color: #d9dcd6;
 }
+/* end universal selectors */
 
 /* start header */
 .header {
@@ -51,7 +53,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-/* end of header */
+/* end header */
 
 /* hero img */
 .hero {
@@ -62,9 +64,9 @@ body {
     background-size: cover ;
     background-position: center;
 }
-/* end of hero */
+/* end hero */
 
-/* start of content */
+/* start content section---SEO, online rep, social media mrkt */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -83,9 +85,6 @@ body {
     
 }
 
-/* end of content */
-
-/* start content section--SEO, online rep, social media mrkt */
 .center-content {
     margin-bottom: 20px;
     padding: 50px;
@@ -104,9 +103,7 @@ body {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
 /* end content section---SEO, online rep, social media mrkt */
-
 
 /* benefits section--right panel */
 .benefits {
@@ -132,7 +129,7 @@ body {
 }
 /* end benefits section--right panel */
 
-/* footer */
+/* start footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -143,4 +140,4 @@ body {
 .footer h2 {
     font-size: 20px;
 }
-/* en of footer */
+/* end footer */
