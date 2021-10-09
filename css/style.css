@@ -10,7 +10,8 @@ a {
 }
 
 p {
-    font-size: 25px;
+    font-size: 16px;
+    max-width: 100%;
 }
 
 body {
@@ -54,11 +55,11 @@ body {
 
 /* hero img */
 .hero {
-    height: 800px;
+    height: 790px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
+    background-size: cover ;
     background-position: center;
 }
 /* end of hero */
@@ -67,8 +68,6 @@ body {
 .float-left {
     float: left;
     margin-right: 25px;
-    
-    
 }
 
 .float-right {
@@ -81,6 +80,7 @@ body {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    
 }
 
 /* end of content */
@@ -138,18 +138,18 @@ body {
 }
 
 .search-engine-optimization img {
-    max-height: 75px;
-    max-width: 75px;
+    max-height: 300px;
+    max-width: 300px;
 }
 
 .online-reputation-management img {
-    max-height: 75px;
-    max-width: 75px;
+    max-height: 300px;
+    max-width: 300px;
 }
 
 .social-media-marketing img {
-    max-height: 75px;
-    max-width: 75px;
+    max-height: 300px;
+    max-width: 300px;
 }
 
 .search-engine-optimization h2 {
