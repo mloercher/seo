@@ -10,7 +10,7 @@
 ### ![SEO-fixed-anchor](images/SEO-fixed-anchor.png)
  
 
-### 3. CSS Style sheet has been cleaned up, eliminating repetitive code and streamlining the sheet while maintainint website functionality. 
+#### 3. CSS Style sheet has been cleaned up, eliminating repetitive code and streamlining the sheet while maintainint website functionality. 
 
 
 
